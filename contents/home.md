@@ -12,7 +12,7 @@ Email: yuanli4911[at]163.com
 
 #### Curriculum Vitae
 
-[![PDF](https://github.com/Yuan-Li97/Yuan-Li97.github.io/blob/main/cv.pdf)](https://senli1073.github.io/)
+[![PDF](https://img.shields.io/badge/下载简历-PDF-blue?logo=adobeacrobatreader)](../cv.pdf)
 
 #### Research Interests
 - Green Finance
