@@ -12,7 +12,7 @@ Email: yuanli4911[at]163.com
 
 #### Curriculum Vitae
 
-[![PDF](https://img.shields.io/badge/下载简历-PDF-blue?logo=adobeacrobatreader)](../cv.pdf)
+[PDF](../cv.pdf)
 
 #### Research Interests
 - Green Finance
