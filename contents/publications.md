@@ -1,6 +1,7 @@
-1. "Present Bias: Understanding Zero Leverage Policy and Unstable Capital Structure," **Yuan Li**, [Tak-Yuen Wong](https://sites.google.com/site/etywong110/) and Siqi Zhao, *Journal of Mathematical Economics*, 2025, 103148. 
+1. "[Present Bias: Understanding Zero Leverage Policy and Unstable Capital Structure](https://www.sciencedirect.com/science/article/pii/S0304406825000655)," **Yuan Li**, [Tak-Yuen Wong](https://sites.google.com/site/etywong110/) and Siqi Zhao, *Journal of Mathematical Economics*, 2025, 103148. 
+    sophisticated present-biased entrepreneurs adopt a zero-leverage policy to commit against future over-borrowing, whereas naive entrepreneurs underestimate their future refinancing incentives, leading to unstable capital structures and exploitation by lenders.
 
-2. "Present-Biased Government and Sovereign Debt Dynamics," **Yuan Li**, [Jinqiang Yang](https://scholar.google.com/citations?hl=zh-CN&user=LT4oF5cAAAAJ&view_op=list_works&sortby=pubdate) and Siqi Zhao, *Journal of Mathematical Economics*, 2022, 98, 102579.
+2. "[Present-Biased Government and Sovereign Debt Dynamics]," **Yuan Li**, [Jinqiang Yang](https://scholar.google.com/citations?hl=zh-CN&user=LT4oF5cAAAAJ&view_op=list_works&sortby=pubdate) and Siqi Zhao, *Journal of Mathematical Economics*, 2022, 98, 102579.
 
 3. "Present-Biased Heterogeneity, Marginal Propensity to Consume, and Wealth Distribution," **Yuan Li**, [Jinqiang Yang](https://scholar.google.com/citations?hl=zh-CN&user=LT4oF5cAAAAJ&view_op=list_works&sortby=pubdate) and Siqi Zhao, *Macroeconomic Dynamics*, 2025, 29, e63.
 
